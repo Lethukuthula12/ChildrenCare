@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.28 841.89" style="enable-background:new 0 0 595.28 841.89;" xml:space="preserve">
+<style type="text/css">
+	.Half_x0020_Highlight_x0020_Blue{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.Navy_x0020_Subtle_x0020_Highlight{fill:url(#SVGID_2_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.st0{fill:#00A651;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:60.9051px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#2E3F99"/>
+	<stop  offset="0.618" style="stop-color:#2A3182"/>
+	<stop  offset="0.6292" style="stop-color:#2A3491"/>
+	<stop  offset="0.9831" style="stop-color:#00629F"/>
+</linearGradient>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#2E3F99"/>
+	<stop  offset="0.618" style="stop-color:#2A3182"/>
+	<stop  offset="0.9831" style="stop-color:#00629F"/>
+</linearGradient>
+<g id="Layer_1">
+	<g>
+		<g>
+			<ellipse class="st0" cx="266.01" cy="383.77" rx="54.73" ry="62.09"/>
+			<ellipse class="st0" cx="266.01" cy="413.32" rx="54.73" ry="56.4"/>
+		</g>
+		<g>
+			<ellipse class="st1" cx="265.56" cy="381.19" rx="49.74" ry="54.64"/>
+		</g>
+	</g>
+	<text transform="matrix(0.8279 0 0 1 224.0783 397.6853)" class="st2 st3">Cap</text>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
